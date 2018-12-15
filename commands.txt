@@ -1,0 +1,2 @@
+gcc -o pthread-cp pthread-cp.c
+./pthread-cp 
